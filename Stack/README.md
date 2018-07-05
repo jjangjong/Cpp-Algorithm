@@ -2,7 +2,10 @@
 
 ## 스택 설명
 
-[Ray Wenderlich](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Stack)
+스택은 배열과 비슷하지만 기능이 제한되어 있습니다. 맨 위에 새 요소를 추가하고, 제거할 때도 맨 위의 요소를 제거 합니다. 이는 알고리즘 구현시 임시 목록에 객체를 추가한 다음 나중에 목록에서 객체를 꺼내려고 할 때 필요합니다. 
+
+스택을 가리켜 LIFO 라고도 하는데요. 이는 Last-in, First out의 약자로 마지막으로 들어온 요소가 가장 먼저 제거되는 요소라는 의미입니다.
+
 [예시 소스코드](https://github.com/becomingmacker/Cpp-Algorithm/blob/master/Stack/Stack.cpp)
 
 ## 스택 문제
