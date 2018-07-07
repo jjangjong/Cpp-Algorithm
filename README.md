@@ -14,7 +14,7 @@
 
 - [스택](https://github.com/becomingmacker/Cpp-Algorithm/blob/master/Stack)
 - [큐](https://github.com/becomingmacker/Cpp-Algorithm/blob/master/Queue)
-- [삽입 정렬]()
+- [삽입 정렬](https://github.com/becomingmacker/Cpp-Algorithm/tree/master/Insertion%20Sort)
 - [이진 검색]()
 - [병합 정렬]()
 
@@ -34,4 +34,5 @@
 
 ## 라이센스
 
-MacKer
+C++ 알고리즘은 MacKer이 소유하고 있으며, MIT 오픈 소스 라이센스의 조건에 의거합니다.
+
