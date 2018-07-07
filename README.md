@@ -12,11 +12,11 @@
 
 만약 알고리즘과 자료구조에 처음이라면, 여기서부터 시작하면 좋습니다.
 
-- [스택](https://github.com/becomingmacker/Cpp-Algorithm/blob/master/Stack)
-- [큐](https://github.com/becomingmacker/Cpp-Algorithm/blob/master/Queue)
-- [삽입 정렬](https://github.com/becomingmacker/Cpp-Algorithm/tree/master/Insertion%20Sort)
-- [이진 검색]()
-- [병합 정렬]()
+- [스택(Stack)](https://github.com/becomingmacker/Cpp-Algorithm/blob/master/Stack)
+- [큐(Queue)](https://github.com/becomingmacker/Cpp-Algorithm/blob/master/Queue)
+- [삽입 정렬(Insertion Sort)](https://github.com/becomingmacker/Cpp-Algorithm/tree/master/Insertion%20Sort)
+- [이진 검색 트리(Binary Search Tree)]()
+- [병합 정렬(Merge Sort)]()
 
 ## 알고리즘
 
@@ -35,4 +35,4 @@
 ## 라이센스
 
 C++ 알고리즘은 MacKer이 소유하고 있으며, MIT 오픈 소스 라이센스의 조건에 의거합니다.
-
+[MIT 오픈 소스 라이센스](https://github.com/becomingmacker/Cpp-Algorithm/blob/master/LICENSE.md)
