@@ -15,7 +15,7 @@
 - [스택(Stack)](https://github.com/becomingmacker/Cpp-Algorithm/blob/master/Stack)
 - [큐(Queue)](https://github.com/becomingmacker/Cpp-Algorithm/blob/master/Queue)
 - [삽입 정렬(Insertion Sort)](https://github.com/becomingmacker/Cpp-Algorithm/tree/master/Insertion%20Sort)
-- [이진 검색 트리(Binary Search Tree)]()
+- [이진 검색 트리(Binary Search Tree)](https://github.com/becomingmacker/Cpp-Algorithm/tree/master/Binary%20Search%20Tree)
 - [병합 정렬(Merge Sort)]()
 
 ## 알고리즘
